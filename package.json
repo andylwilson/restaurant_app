@@ -1,0 +1,28 @@
+{
+  "name": "restaurantapp",
+  "version": "1.0.0",
+  "description": "both frontend and backend together",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.5",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asiagromasia/restaurantApp2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/asiagromasia/restaurantApp2/issues"
+  },
+  "homepage": "https://github.com/asiagromasia/restaurantApp2#readme"
+}
